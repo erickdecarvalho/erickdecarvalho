@@ -6,7 +6,7 @@
 
 ### Hello There 👋
 
-👨‍💻 Sou analista e desenvolvedor de sistemas com foco na linguagem Java utilizando Spring Boot. 🚀<br>
+👨‍💻 Sou analista e desenvolvedor de sistemas com foco na linguagem Java utilizando Spring Boot e Angular. 🚀<br>
 ⚡ Amante de desafios e apaixonado por programação, fale comigo se precisar de alguma ajuda ! 😄
 
 ##
